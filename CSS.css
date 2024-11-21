@@ -1,0 +1,42 @@
+header{
+    background-color: limegreen;
+    padding: 20px;
+    margin: 20px;
+}
+p::first-letter{
+	font-size: 2em;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+    color: limegreen;
+}
+div:hover{
+    color: white;
+    background-color: orange;
+}
+div{
+    display: inline;
+    padding: 20px;
+    margin: 20px;
+}
+ul{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+table{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.par{
+    background-color: limegreen;
+}
+
+.linea{
+    background-color: black;
+}
+
+#foot{
+    font-style: inherit;
+}
